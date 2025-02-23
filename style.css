@@ -1,0 +1,28 @@
+head{
+    background-color: grey;
+    color: black;
+    text-size-adjust: 5;
+    text-align: center; 
+ }
+#groopheadp{
+    background-color: grey;
+    color: black;
+    text-align: center; 
+ } 
+
+ #icet01{
+     background-color: green;
+ }
+ #icet02{
+    color: black;
+    text-size-adjust: 5;
+    text-align: start; 
+ }
+
+ .groop01{
+    text-size-adjust: 1;
+ }
+
+ .groop02{
+     background-color: bisque;
+ }
