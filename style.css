@@ -1,12 +1,12 @@
 head{
     background-color: grey;
-    color: black;
+    color: white;
     text-size-adjust: 5;
     text-align: center; 
  }
 #groopheadp{
     background-color: grey;
-    color: black;
+    color: white;
     text-align: center; 
  } 
 
@@ -14,15 +14,25 @@ head{
      background-color: green;
  }
  #icet02{
-    color: black;
+    color: white;
     text-size-adjust: 5;
     text-align: start; 
  }
 
  .groop01{
+    color: white;
     text-size-adjust: 1;
  }
 
  .groop02{
      background-color: bisque;
+ }
+
+ #mainbody{
+    background-image: url(img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    back
+
  }
